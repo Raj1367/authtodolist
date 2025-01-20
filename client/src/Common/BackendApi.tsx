@@ -1,5 +1,5 @@
 
-const backendUrl = "http://localhost:8080"
+const backendUrl = "https://authtodolist.onrender.com/"
 
 export const backendApi = {
     signUp: {
